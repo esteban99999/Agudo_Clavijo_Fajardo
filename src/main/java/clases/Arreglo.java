@@ -7,7 +7,7 @@ package clases;
 import java.util.Scanner;
 
 /**
- *
+ *a
  * @author PC-12
  */
 public class Arreglo {
